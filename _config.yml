@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Michael Ibrahim"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "ML PhD Candidate @ GT"
   location         : "Atlanta, GA"
-  employer         : "Georgia Institute of Technology"
+  employer         : "Georgia Tech"
   uri              : # URL
   email            : "mibrahim41@gatech.edu" 
 
@@ -38,9 +38,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=onDFrjkAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #
   researchgate     : # URL
   scopus           : # URL
 
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "michael-ibrahim-610736157"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
