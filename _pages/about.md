@@ -1,11 +1,14 @@
 ---
 permalink: /
-title: "Biography"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Biography
+========
 
 I am an ML PhD candidate at the H. Milton Stewart School of Industrial and Systems Engineering at Georgia Institute of Technology. I work as part of the Predictive Analytics & Intelligent Systems (PAIS) lab, and I am advised by Prof. Nagi Gebraeel. I was also a member of NASA's Habitat Optimized for Missions of Exploration - Space Technology Research Institute (HOME STRI).
 
@@ -13,8 +16,15 @@ My research focuses on the intersection of Federated Learning (FL) and Distribut
 
 Education
 ========
-Ph.D. in Machine Learning - Georgia Institute of Technology (Expected in 2026)
+Ph.D. in Machine Learning - Georgia Institute of Technology (Expected in 2026)  
+  - Advisor: Prof. Nagi Gebraeel
+  - Minor in Data Manipulation and Visualization
 
 M.S. in Operations Research - Georgia Institute of Technology (2025)
 
-B.S. in Mechanical Engineering - Georgia Institute of Technology (2021)
+B.S. in Mechanical Engineering - Georgia Institute of Technology (2021)  
+  - Concentration in Automation and Robotic Systems
+
+Hobbies & Interests
+========
+Besides research, I really enjoy car photography 📷 (monthly visits to cars & coffe events), playing racket sports with my friends 🎾 (squash is my favorite, even if I'm not great at it), reading 📖 (especially horror novels), and taking long walks on campus 🌳 (although the Atlanta heat can make it difficult sometimes).
