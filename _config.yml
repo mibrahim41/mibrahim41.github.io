@@ -23,7 +23,7 @@ repository               : "mibrahim41/mibrahim41.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.jpg"
   name             : "Michael Ibrahim"
   pronouns         : # example: "she/her"  
   bio              : "ML PhD Candidate @ GT"
