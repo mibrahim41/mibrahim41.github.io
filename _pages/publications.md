@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **Ibrahim, M.**, Rozas, H., Gebraeel, N., & Xie, W. (2025).  
-  "FDR-SVM: A Federated Distributionally Robust Support Vector Machine via a Mixture of Wasserstein Balls Ambiguity Set."  
-  *UAI 2025*.  
+- **Ibrahim, M.**, Rozas, H., Gebraeel, N., & Xie, W. (2025).
+  "FDR-SVM: A Federated Distributionally Robust Support Vector Machine via a Mixture of Wasserstein Balls Ambiguity Set."
+  *UAI 2025*.
   [PDF]([link-to-paper.pdf](https://openreview.net/pdf?id=Qoc2ztlYto)) | [Code](https://github.com/mibrahim41/FDR-SVM)
 
 - **Ibrahim, M.**, Rozas, H., & Gebraeel, N. (2024). 
