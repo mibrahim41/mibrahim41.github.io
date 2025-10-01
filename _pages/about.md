@@ -14,5 +14,7 @@ My research focuses on the intersection of Federated Learning (FL) and Distribut
 Education
 ========
 Ph.D. in Machine Learning - Georgia Institute of Technology (Expected in 2026)
+
 M.S. in Operations Research - Georgia Institute of Technology (2025)
+
 B.S. in Mechanical Engineering - Georgia Institute of Technology (2021)
