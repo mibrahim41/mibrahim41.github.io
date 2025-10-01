@@ -16,8 +16,8 @@ author_profile: true
   Poster presented at UAI 2025, Rio De Janeiro, Brazil (July 2025).  
   Invited DAIS best student paper award presentation at IISE, Atlanta, GA, USA (June 2025).  
   Oral presentation at IISE, Atlanta, GA, USA (May 2025).  
-  Poster presented at Manufacturing & AI poster session @ Georgia Tech, Atlanta, GA, USA (May 2025).  
-  Oral presentation at INFORMS (October 2025).
+  Poster presented at Manufacturing & AI poster session at Georgia Tech, Atlanta, GA, USA (May 2025).  
+  Oral presentation at INFORMS, Seattle, WA, USA (October 2025).
 
 4) **A Prognostics Framework for Remaining Lifetime Distribution Prediction of Multiple ECLSS Components.**  
   Technical demonstration at NASA HOME STRI Annual Review, Davis, CA, USA (June 2024).
@@ -28,4 +28,4 @@ author_profile: true
   Oral presentation at IISE, New Orleans, LA, USA (May 2023).
 
 6) **A Generative Machine Learning Framework for Anomaly Response in Cyclical Processes in the ECLSS on a Deep Space Habitat.**  
-  Technical demonstration at NASA HOME STRI Annual Review (June 2023).
+  Technical demonstration at NASA HOME STRI Annual Review, Boulder, Colorado, USA (June 2023).
