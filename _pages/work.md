@@ -19,11 +19,11 @@ Professional Work Experience
 
 Teaching Experience
 --------
-**Guest Lecturer**
+**Guest Lecturer**  
 1) **Reliability Engineering (ISYE 6805)** - Georgia Institute of Technology (Fall 2025)
 
-**Teaching Assistant**
-1) **Reliability Engineering (ISYE 6805)** - Georgia Institute of Technology (Fall 2022, Fall 2024, Fall 2025)
-2) **Manufacturing Reliability (ISYE 6381)** - Georgia Institute of Technology (Fall 2022, Fall 2024)
-3) **Basic Statistical Methods (ISYE 3030)** - Georgia Institute of Technology (Fall 2021)
+**Teaching Assistant**  
+1) **Reliability Engineering (ISYE 6805)** - Georgia Institute of Technology (Fall 2022, Fall 2024, Fall 2025)  
+2) **Manufacturing Reliability (ISYE 6381)** - Georgia Institute of Technology (Fall 2022, Fall 2024)  
+3) **Basic Statistical Methods (ISYE 3030)** - Georgia Institute of Technology (Fall 2021)  
 4) **Computing for Engineers (CS 1371)** - Georgia Institute of Technology (Fall 2018, Spring 2019, Fall 2019, Spring 2020, Summer 2020)
