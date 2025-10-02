@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Michael Ibrahim"
 title_separator          : "-"
-name                     : &name "Home"
+name                     : &name "Michael Ibrahim"
 description              : &description "ML PhD Candidate @ GT"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://mibrahim41.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -135,7 +135,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
