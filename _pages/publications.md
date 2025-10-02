@@ -41,3 +41,4 @@ author_profile: true
     Sarah Kingsley, Ana Duran Viseras, *Michael Ibrahim*, Thomas Orlando, Kostas Konstantinidis, Nagi Gebraeel  
    *Working Paper*
 
+I am also a first author on 1 work and a co-author on 3 works which are in preparation and are not listed here.
