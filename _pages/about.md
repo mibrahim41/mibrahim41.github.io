@@ -26,4 +26,4 @@ B.S. in Mechanical Engineering - Georgia Institute of Technology (2021)
 
 Hobbies & Interests
 --------
-Besides research, I really enjoy car photography 📷 (monthly visits to cars & coffe events), playing racket sports with my friends 🎾 (squash is my favorite, even if I'm not great at it), reading 📖 (especially horror novels), and taking long walks on campus 🌳 (although the Atlanta heat can make it difficult sometimes).
+Besides research, I really enjoy cars in general 🚗 and car photography 📷 (monthly visits to cars & coffe events), playing racket sports with my friends 🎾 (squash is my favorite), reading 📖 (especially horror novels), and taking long walks on campus 🌳 (Georgia Tech campus is beautiful).
